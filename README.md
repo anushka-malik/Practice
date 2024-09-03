@@ -4,4 +4,4 @@ Practicing git commands
 * Bullet list item 2
 > this is compiled code
 
-`gcc fifo_page_replacement.c -o fifo_page_replacement`
+> `gcc fifo_page_replacement.c -o fifo_page_replacement`
